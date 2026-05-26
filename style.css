@@ -1,1 +1,25 @@
+body{
+  background: purple;
+  strong{
+    color:blue;
+  }
+}
+h1{
+  color:#9C27F5;
+    text-aling: center;
+}
+img{
+  display; block;
+  width:100%;
+  height: auto;
+  max-width: 600px;
+  margin-left:auto;
+}
+footer{
+  text-aling: center;
+  strong{
+    color:#AE84CF;
+    
+  }
+}
 
